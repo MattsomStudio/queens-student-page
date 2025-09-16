@@ -30,9 +30,9 @@ h2 {
 /* example: make your photo round */
 img { 
   border-radius: 50%; 
-  object-fit: cover;
-  width: 240px;
-  height: 240px;
-  display: block;
-  margin: 0 auto 2rem auto;
+  object-fit: cover; /* used Ai because my image is streched and I dont know why */
+  width: 240px; /* used Ai because my image is streched and I dont know why */
+  height: 240px; /* used Ai because my image is streched and I dont know why */
+  display: block; /* used Ai because my image is streched and I dont know why */
+  margin: 2rem auto; /* used Ai because my image is streched and I dont know why */
 }
