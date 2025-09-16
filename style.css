@@ -8,6 +8,10 @@ body {
   background:var(--red); 
   color:#fff; 
 }
+title{
+  background:var(--gold);
+  min-height: 10px;
+}
 header { 
   background:var(--blue); 
   color:#fff; 
