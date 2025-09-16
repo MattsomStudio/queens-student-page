@@ -10,11 +10,13 @@ header {
   padding:1rem; 
   min-height: 50px;
 }
-header h1 {
-  margin: 0;
-}
 main {
-  background:#fff; color:#1a1a1a; max-width:900px; margin:2rem auto; border-radius:12px; padding:1.5rem; 
+  background:#fff; 
+  color:#1a1a1a; 
+  max-width:900px; 
+  margin:2rem auto; 
+  border-radius:12px; 
+  padding:1.5rem; 
 }
 a { 
   color: var(--blue); 
@@ -22,9 +24,13 @@ a {
 /* === personalize below by changing colors or spacing === */
 /* example: make headings blue and a bit larger */
 h2 { 
-  color: var(--blue); font-size: 1.6rem;
+  color: var(--blue); 
+  font-size: 1.6rem;
 }
 /* example: make your photo round */
 img { 
   border-radius: 50%; 
+  object-fit: cover;
+  width: 240px;
+  height: 240;
 }
