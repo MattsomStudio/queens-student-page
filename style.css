@@ -34,5 +34,5 @@ img {
   width: 240px; /* used Ai because my image is streched and I dont know why */
   height: 240px; /* used Ai because my image is streched and I dont know why */
   display: block; /* used Ai because my image is streched and I dont know why */
-  margin: 2rem auto; /* used Ai because my image is streched and I dont know why */
+  margin: 2rem 0; /* used Ai because my image is streched and I dont know why */
 }
