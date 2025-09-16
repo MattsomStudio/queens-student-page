@@ -8,7 +8,7 @@ header {
   background:var(--blue); 
   color:#fff; 
   padding:1rem; 
-  min-height: 50px;
+  min-height: 50px; 
 }
 main {
   background:#fff; 
@@ -33,4 +33,6 @@ img {
   object-fit: cover;
   width: 240px;
   height: 240px;
+  display: block;
+  margin: 0 auto 2rem auto;
 }
