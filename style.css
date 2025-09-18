@@ -9,7 +9,7 @@ body {
   color:#fff; 
 }
 header { 
-  background:var(--blue); 
+  background:var(--blue); /* Change colour */
   color:#fff; 
   padding:1rem; 
   min-height: 50px; 
@@ -19,7 +19,7 @@ main {
   color:#1a1a1a; 
   max-width:900px; 
   margin:2rem auto; 
-  border-radius:12px; 
+  border-radius:12px; /* Border is too big */
   padding:1.5rem; 
 }
 a { 
@@ -33,7 +33,7 @@ h2 {
 }
 /* example: make your photo round */
 img { 
-  border-radius: 50%; 
+  border-radius: 30%; /* make it less round becuase it would look better */
   object-fit: cover; /* used Ai because my image is streched and I dont know why */
   width: 240px; /* used Ai because my image is streched and I dont know why */
   height: 240px; /* used Ai because my image is streched and I dont know why */
